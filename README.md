@@ -61,13 +61,15 @@
  
  `cd opencv`
  
- `git checkout 3.2`
+ `git checkout 3.4.0`
  
  `cd ..`
  
  `git clone https://github.com/Itseez/opencv_contrib.git`
  
  `cd opencv_contrib`
+ 
+ `git checkout 3.4.0`
  
  `cd ..`
  
