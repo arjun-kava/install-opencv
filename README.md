@@ -8,7 +8,7 @@
 ## Install Dependecies
 `sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev`
 
-`sudo apt-get install python3.5-dev python3-numpy libtbb2 libtbb-dev`
+`sudo apt-get install python3-dev python3-numpy libtbb2 libtbb-dev`
 
 `sudo apt-get install libjpeg-dev`
 
